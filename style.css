@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.border{
+    height: 410px;
+    width: 650px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.cirkle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(156, 0, 0);
+    position: relative;
+    top: 105px;
+}
